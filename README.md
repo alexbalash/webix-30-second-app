@@ -5,3 +5,5 @@
 "Webix 30-second App" based on Webix UI components
 
 For more detailed information, you can go to the [documentation](https://docs.webix.com/), which contains a detailed description of all the possibilities with related samples.
+
+Read an article about this app [here](https://blog.webix.com/30-seconds-to-the-app-with-webix-ui/).
